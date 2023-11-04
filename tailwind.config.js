@@ -10,7 +10,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        stronCyan: "#26baa4",
+        strongCyan: "#26baa4",
         lightBlue: "#6173ff",
         darkGrayishBlue: "#4c545d",
         grayishBlue: "#9fabb2",
